@@ -1,0 +1,34 @@
+
+
+[
+    {
+      "id": "id-1",
+      "label": "Phone",
+      "link": "tel:00351912431031",
+      "text": "+351 912 431 031"
+    },
+    {
+      "id": "id-2",
+      "label": "E-mail",
+      "link": "mailto:liudmila.popescu91@gmail.com",
+      "text": "liudmila.popescu91@gmail.com"
+    },
+    {
+      "id": "id-3",
+      "label": "GitHub",
+      "link": "https://github.com/lp20201108",
+      "text": "GitHub"
+    },
+    {
+      "id": "id-4",
+      "label": "Telegram",
+      "link": "https://t.me/ludmila_popescu",
+      "text": "Telegram"
+    },
+    {
+      "id": "id-5",
+      "label": "LinkedIn",
+      "link": "https://www.linkedin.com/in/liudmila-popescu/",
+      "text": "LinkedIn"
+    }
+  ]

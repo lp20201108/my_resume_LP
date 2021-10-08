@@ -1,0 +1,39 @@
+.item {
+    list-style: none;
+    max-width: 800px;
+  }
+  
+  .title {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: var(--accentColor);
+  }
+  
+  .time {
+    color: var(--secondaryTextColor);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  
+  .divider {
+    color: #000000;
+  }
+  
+  .duties {
+    margin-top: 14px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+  }
+  
+  .duty {
+    list-style: none;
+    color: var(--primaryTextColor);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+  }

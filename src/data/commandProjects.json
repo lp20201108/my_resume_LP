@@ -1,0 +1,30 @@
+[ {
+  "id": "id-1",
+  "label": "Phonebook ",
+  "link": "https://lp20201108.github.io/goit-react-hw-08-phonebook-hooks/",
+  "tech": "HTML5, CSS3, React.js, Redux",
+  "text": "About project: A personal phone book that allows you to keep your contacts on Firebase."
+},
+    {
+      "id": "id-2",
+      "label": "Parcel-project",
+      "link": "https://english-tutor.netlify.app/index.html",
+      "tech": "[HTML,CSS, SASS",
+      "text": "About project: Landing Page for a English School"
+    },
+    {
+      "id": "id-3",
+      "label": "Filmoteka",
+      "link": "https://filmoteka-js.netlify.app/",
+      "tech": "HTML5, CSS3, JavaScript",
+      "text": "About project: Web page for searching movies, see the rating, see details about every movie as trailer, popularity, year of release, etc., with the possibility to add movies to the library (favorites or watched)."
+    },
+    {
+        "id": "id-4",
+        "label": "Project Manager App",
+        "link": "https://filmoteka-js.netlify.app/",
+        "tech": "React.js, Redux,HTML5, CSS3, JS",
+        "text": "About project:  SPA that helps you to improve your teamwork efficiency. App offers you the possibility to add projects, sprints, tasks, to add members and set deadlines. "
+      }
+
+  ]

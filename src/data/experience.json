@@ -1,0 +1,60 @@
+[
+    {
+      "id": "id-1",
+      "profession": "Frontend Developer - student",
+      "company": "GoIT",
+      "time": "November 2020 - June 2021",
+      "country": "Ukraine",
+      "duties": [
+        {
+          "id": "1",
+          "duty": "Learning and practicing HTML5, CSS3, JavaScript and React.Js. Worked and used technologies and tools as Git, Figma, Postman, Babel, Webpack, VSCode, Bootstrap, etc. Worked on individual and team projects where applied in practice all I was learning during the IT bootcamp. "
+        }
+      ]
+    },
+    {
+      "id": "id-2",
+      "profession": "Receptionist",
+      "company": "Bluesock Hostels Lisbon",
+      "time": "May 2019- August 2021",
+      "country": "Portugal",
+      "duties": [
+        {
+          "id": "1",
+          "duty": "Answer and direct phone calls in a polite and friendly manner. Welcome visitors in a warm and friendly manner, and answer any questions visitors have."
+        },
+        {
+          "id": "2",
+          "duty": " Maintain reception area and all common areas in a clean and tidy manner at all times. Operate standard office equipment on a regular basis, including a fax machine, a copy machine, and a computer.Keep detailed and accurate records of visitor requests and of calls received."
+        }
+      ]
+    },
+    {
+      "id": "id-3",
+      "profession": "Head of Public Relations department",
+      "company": "Diaconia",
+      "time": "February 2016 - August 2018",
+      "country": "Republic of Moldova",
+      "duties": [
+        {
+          "id": "1",
+          "duty": "Planned and implemented marketing strategies. I was part of a team that was organizing  charity events, press conferences, exhibitions, press visits. In the first year, I had the initiative to create  a new brand for the main social campaigns and increased the popularity of events and numbers of donations (example: The Easter Campaign Table of Joy from 32.000 to 64.000)."
+        }
+        
+      ]
+    },
+    {
+        "id": "id-3",
+        "profession": "Copywriting",
+        "company": "Freelancer",
+        "time": "2014 - 2019",
+        "country": "Republic of Moldova, Romania",
+        "duties": [
+          {
+            "id": "1",
+            "duty":"Writing articles for areas as advertising, technologies, IT, social campaigns, commercial interviews, fashion, interior design, psychology etc."
+          }
+          
+        ]
+      }
+  ]
