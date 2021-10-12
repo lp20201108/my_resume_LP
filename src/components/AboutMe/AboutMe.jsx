@@ -7,7 +7,7 @@ import s from './AboutMe.module.css';
 function AboutMe({ commandProjects, ownProjects, experience }) {
   return (
     <div className={s.container}>
-      <div className={s.section}>
+      {/* <div className={s.section}> */}
         <h2 className={s.profession}>Frontend Developer</h2>
         <h1 className={s.name}>Liudmila Popescu</h1>
         <p className={s.description}>
