@@ -13,7 +13,6 @@ function AboutMe({ commandProjects, ownProjects, experience }) {
         <p className={s.description}>
         I'm looking for a job as a frontend developer in a friendly and thriving company, in order to develop my skills and grow as part of the team. Self-motivated and stress-resistant. Passionate about development and eager to build the best IT solutions. I sincerely believe that my previous experience will be useful for a constant improvement of UI and UX.
         </p>
-      </div>
       <div className={s.section}>
         <h3 className={s.title}>Projects</h3>
 
