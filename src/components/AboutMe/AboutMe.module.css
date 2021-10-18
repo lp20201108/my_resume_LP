@@ -12,6 +12,7 @@
     font-weight: 700;
     line-height: 24px;
   }
+
   
   .name {
     font-size: 45px;
@@ -44,6 +45,7 @@
     line-height: 24px;
   }
   
-  .typeProject {
+  .typeProject,
+   .profession:hover {
     color: var(--accentColor);
   }
